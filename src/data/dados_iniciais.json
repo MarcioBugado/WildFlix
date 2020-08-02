@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Scenes",
+      "link": "",
+      "cor": "#07AE85",
+      "link_extra": {
+        "text": "Algumas cenas do filme",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Into The Wild",
+          "url": "https://www.youtube.com/watch?v=6l2vocCfIG8"
+        },
+        {
+          "titulo": "Chat with..",
+          "url": "https://www.youtube.com/watch?v=9ui5BalHNAg"
+        },
+        {
+          "titulo": "Felling the air",
+          "url": "https://www.youtube.com/watch?v=_EYXKTOPTrI"
+        },
+        {
+          "titulo": "About Happiness",
+          "url": "https://www.youtube.com/watch?v=x2k-oo2TT-0"
+        },
+        {
+          "titulo": "He walks",
+          "url": "https://youtu.be/8j5sn2UyTp4"
+        },
+        {
+          "titulo": "On the Beach",
+          "url": "https://youtu.be/8j5sn2UyTp4"
+        },
+        {
+          "titulo": "Tracy T",
+          "url": "https://youtu.be/NL4WWmwdV6g"
+        },
+        {
+          "titulo": "Where you are",
+          "url": "https://youtu.be/xRtjf4AE2-4"
+        }        
+      ]
+    },
+    {
+      "titulo": "Soundtrack",
+      "cor": "#07AE85",
+      "link_extra": {
+        "text": "Trilha Sonora",
+        "url": "https://youtu.be/Mwx3RvDWvDM?list=PLIghpSV4NkpTE-lWc-0dsWTzJsyjo-C_C"
+      },
+      "videos": [
+        {
+          "titulo": "Society",
+          "url": "https://youtu.be/cl4cLEToPfc?list=PLIghpSV4NkpTE-lWc-0dsWTzJsyjo-C_C"
+        },
+        {
+          "titulo": "Long Night",
+          "url": "https://youtu.be/6H8optu9rTU?list=PLIghpSV4NkpTE-lWc-0dsWTzJsyjo-C_C"
+        },
+        {
+          "titulo": "Rise",
+          "url": "https://youtu.be/jWbiCr200N8?list=PLIghpSV4NkpTE-lWc-0dsWTzJsyjo-C_C"
+        },
+        {
+          "titulo": "Doing the Wrong Thing",
+          "url": "https://youtu.be/4PaWKB1ubqc?list=PLIghpSV4NkpTE-lWc-0dsWTzJsyjo-C_C"
+        }
+      ]
+    },
+    {
+      "titulo": "Interviews",
+      "cor": "#07AE85",
+      "link_extra": {
+        "text": "Sobre o filme",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Jon Krakauer",
+          "url": "https://www.youtube.com/watch?v=kNp3CIJPoB0"
+        },
+        {
+          "titulo": "Sister",
+          "url": "https://www.youtube.com/watch?v=l17oCmyRMno"
+        },
+        {
+          "titulo": "Kristen Stewart",
+          "url": "https://www.youtube.com/watch?v=Vc7SAQrWTMY"
+        },
+        {
+          "titulo": "Emile Hirsch",
+          "url": "https://www.youtube.com/watch?v=dDnqp9503Mg"
+        },
+        {
+          "titulo": "Eddie Vedder e Sean Penn",
+          "url": "https://www.youtube.com/watch?v=c5xeDNQFCFY&t=412s"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Jogos na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
